@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 394,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Phillip Tracy",
+            "title": "Apple's Newest Acquisition Could Mean Changes for Apple Music",
+            "description": "Apple recently acquired AI Music, a startup that creates soundtracks by using artificial intelligence to piece together sounds from royalty-free music. The purchase of the London-based company was reportedly completed in recent weeks, according to unnamed sou…",
+            "url": "https://gizmodo.com/apple-ai-music-acquisition-1848496216",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bf299700678abf32bc304dcaaf2f4aac.jpg",
+            "publishedAt": "2022-02-08T01:30:00Z",
+            "content": "Apple recently acquired AI Music, a startup that creates soundtracks by using artificial intelligence to piece together sounds from royalty-free music. The purchase of the London-based company was re… [+2483 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Academy Awards: Hollywood prepares for Oscar nominations",
+            "description": "The Power of the Dog, Belfast, Dune and West Side Story are expected to be recognised.",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-60233331",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A8F5/production/_123135234_hi072463052.jpg",
+            "publishedAt": "2022-02-08T00:17:42Z",
+            "content": "By Steven McIntoshEntertainment reporter\r\nImage caption, Nicole Kidman (pictured with Being The Ricardos co-star Javier Bardem) is almost certain to be nominated for best actress\r\nThe Oscar nominatio… [+7989 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Meta exec pitches metaverse business to advertisers - Reuters",
+            "description": "The metaverse will open up more ways for businesses to make money, an executive from Facebook parent Meta Platforms Inc <a href=\"https://www.reuters.com/companies/FB.O\" target=\"_blank\">(FB.O)</a> told an advertising conference on Monday, in a presentation com…",
+            "url": "https://www.reuters.com/technology/meta-exec-pitches-metaverse-business-advertisers-2022-02-08/",
+            "urlToImage": "https://www.reuters.com/resizer/WPLdVG24zgLqp20rSevvOXWil4A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y25AJ7I24VLTFIDKBAC3SW4MRQ.jpg",
+            "publishedAt": "2022-02-08T00:05:00Z",
+            "content": "Feb 7 (Reuters) - The metaverse will open up more ways for businesses to make money, an executive from Facebook parent Meta Platforms Inc (FB.O) told an advertising conference on Monday, in a present… [+2651 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Mark Gurman / Bloomberg",
+            "title": "Apple Has Bought a Startup That Uses AI to Make Music to Fit Your Mood",
+            "description": "The technology acquired can generate dynamic soundtracks using royalty-free music and AI, changing based on user interaction.",
+            "url": "https://time.com/6146000/apple-ai-music/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2022/02/GettyImages-1313338119.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2022-02-08T03:59:25Z",
+            "content": "Apple Inc. acquired a startup called AI Music that uses artificial intelligence to generate tailor-made music, according to a person with knowledge of the matter, adding technology that could be used… [+1551 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Javier Pastor",
+            "title": "NVIDIA no comprará ARM: ni los reguladores ni la industria vieron jamás el acuerdo con buenos ojos",
+            "description": "Pudo ser pero no fue. Cuando NVIDIA anunció la compra de ARM por 40.000 millones de dólares en septiembre de 2020 todo apuntaba a cambios importantes en el mercado de los chips, pero los obstáculos comenzaron a aparecer por doquier.\n<!-- BREAK 1 -->\nEl más im…",
+            "url": "https://www.xataka.com/empresas-y-economia/nvidia-no-comprara-arm-reguladores-industria-vieron-jamas-acuerdo-buenos-ojos",
+            "urlToImage": "https://i.blogs.es/df09e4/arm-nvidia/840_560.jpeg",
+            "publishedAt": "2022-02-08T07:08:55Z",
+            "content": "Pudo ser pero no fue. Cuando NVIDIA anunció la compra de ARM por 40.000 millones de dólares en septiembre de 2020 todo apuntaba a cambios importantes en el mercado de los chips, pero los obstáculos c… [+2069 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daringfireball.net"
+            },
+            "author": "John Gruber",
+            "title": "★ Going Dutch",
+            "description": "Rather than decrease regulatory tensions, Apple’s new guidelines seem to intentionally escalate them.",
+            "url": "https://daringfireball.net/2022/02/going_dutch",
+            "urlToImage": "https://daringfireball.net/graphics/df-square-1024.png",
+            "publishedAt": "2022-02-08T02:58:31Z",
+            "content": "The continuing saga of Apple’s conflict with the Netherlands Authority for Consumers and Markets (ACM) — the Dutch equivalent of the U.S. Federal Trade Commission — is fascinating. But I’m finding it… [+25350 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Germain Lussier",
+            "title": "Rashida Jones and a Robot Are Coming to Apple TV+",
+            "description": "Rashida Jones has a new sci-fi show coming to Apple TV+\r\nPhoto: Toni Anne Barson/WireImage (Getty Images)\r\nHere’s what you need to know about the new TV show Sunny: Rashida Jones. Robot. Plane crash mystery. Seriously, what more do you need to know?OK, fine. …",
+            "url": "https://gizmodo.com/rashida-jones-and-a-robot-are-coming-to-apple-tv-1848496062",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/faa91e672592a6df4a22687e8ad629fb.jpg",
+            "publishedAt": "2022-02-08T00:30:00Z",
+            "content": "Heres what you need to know about the new TV show Sunny: Rashida Jones. Robot. Plane crash mystery. Seriously, what more do you need to know?\r\nOK, fine. Heres more. Apple TV+ has just given a 10-epis… [+2030 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lever.co"
+            },
+            "author": null,
+            "title": "PhotoRoom (YC S20) Is Hiring a Senior Web Developer (Paris, Remote ± 1h)",
+            "description": "TL;DR  We are looking for a passionate, curious, and driven Web Developer who will be a contributor to the new PhotoRoom web app. You will work together with our Senior Frontend Engineer and your impact will be huge. It is the opportunity to work on a produ…",
+            "url": "https://jobs.lever.co/photoroom/1486369c-3123-49ea-9686-7ee828880997",
+            "urlToImage": "https://lever-client-logos.s3.us-west-2.amazonaws.com/0218a30b-1e33-41d5-af20-24e359af06b2-1625477711116.png",
+            "publishedAt": "2022-02-08T07:00:24Z",
+            "content": "PhotoRoom develops cutting-edge technology that empowers entrepreneurs, small businesses, and merchants to easily create images that sell - leveraging deep learning. Our ambition: power the internets… [+4338 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Berti Kolbow-Lehradt",
+            "title": "heise+ | Smart Home: Apple HomeKit einfach um nicht-zertifiziertes Zubehör erweitern",
+            "description": "Mit Homebridge out of the box ergänzen Sie mit geringem Aufwand Ihre HomeKit-Installation um nicht zertifizierte Geräte. Sechs Beispiele zeigen die Vorteile.",
+            "url": "https://www.heise.de/ratgeber/Smart-Home-Apple-HomeKit-einfach-um-nicht-zertifziertes-Zubehoer-erweitern-6349042.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/2/6/9/2/1/0/Titel-HomeKit-erweitern-mit-Hoobs-1af6c9b1f2c82573.jpg",
+            "publishedAt": "2022-02-08T06:30:00Z",
+            "content": "Inhaltsverzeichnis\r\nApples Smart-Home-Ökosystem HomeKit bietet für viele Anwendungsbereiche wie Heizen, Licht und Überwachung eine brauchbare Auswahl an Komponenten und Funktionen. Geht es um die Ums… [+2184 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "Nvidia no longer acquiring Arm following regulatory concerns",
+            "description": "Nvidia revealed in 2020 its intentions to buy Arm, a chip designer company owned by Japanese multinational SoftBank. While rumors already suggested that Nvidia might pull out of the acquisition, a new report from the Financial Times (via Axios) says that nego…",
+            "url": "https://9to5mac.com/2022/02/07/nvidia-no-longer-acquiring-arm-following-regulatory-concerns/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/nvidia-arm.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-02-08T01:10:59Z",
+            "content": "Nvidia revealed in 2020 its intentions to buy Arm, a chip designer company owned by Japanese multinational SoftBank. While rumors already suggested that Nvidia might pull out of the acquisition, a ne… [+1757 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "Signal update lets users keep conversations after changing their phone number",
+            "description": "Popular encrypted instant messaging app Signal was updated on Monday with a long-awaited feature, which is the ability to change the registered phone number without losing current conversations.\n more…\nThe post Signal update lets users keep conversations afte…",
+            "url": "https://9to5mac.com/2022/02/07/signal-update-lets-users-keep-conversations-after-changing-their-phone-number/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/02/Signal-Change-Phone-Number.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-02-08T03:30:27Z",
+            "content": "Popular encrypted instant messaging app Signal was updated on Monday with a long-awaited feature, which is the ability to change the registered phone number without losing current conversations.\r\nSin… [+1351 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Amber Neely)",
+            "title": "Apple signs series order for dark comedy 'Sunny'",
+            "description": "Apple TV+ has announced a new, dark comedy titled \"Sunny,\" set to star Rashida Jones.\"Sunny\" follows Rashida Jones (\"On the Rocks\") as Suzie, an American living in Kyoto, Japan. After losing her husband and son in a mysterious plane crash, she's gifted Sunny,…",
+            "url": "https://appleinsider.com/articles/22/02/08/apple-signs-series-order-for-dark-comedy-sunny",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/46893-91407-42620-82692-000-lead-Apple-TV+-xl-xl.jpg",
+            "publishedAt": "2022-02-08T02:24:03Z",
+            "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+763 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Amber Neely)",
+            "title": "Apple Studios announces 1970s throwback comedy 'Mrs. American Pie'",
+            "description": "Apple TV+ has signed a series order for \"Mrs. American Pie,\" a 10-episode comedy set to star Kristen Wiig.\"Mrs. American Pie\" follows Maxine Simmons, a woman attempting to cross the line between the haves and have-nots and secure her spot in the high society …",
+            "url": "https://appleinsider.com/articles/22/02/08/apple-studios-announces-1970s-throwback-comedy-mrs-american-pie",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/46892-91406-44333-86093-000-lead-Apple-TV+-xl-xl.jpg",
+            "publishedAt": "2022-02-08T02:04:39Z",
+            "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+963 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Steven Musil",
+            "title": "SoftBank's $40B deal to sell Arm to Nvidia reportedly collapses - CNET",
+            "description": "SoftBank now expected to pursue an IPO worth $80 billion, the Financial Times reports.",
+            "url": "https://www.cnet.com/news/softbanks-40b-deal-to-sell-arm-to-nvidia-reportedly-collapses/",
+            "urlToImage": "https://www.cnet.com/a/img/tuUM-RZO7V2fPF66P9VwNdFwbEs=/1200x630/2022/02/08/e4b59f52-51a4-48a7-b00e-84dbdf4ebb51/nvidia-ces-setup.jpg",
+            "publishedAt": "2022-02-08T03:45:00Z",
+            "content": "James Martin/CNET\r\nSoftBank's deal to sell chipmaker Arm to Nvidia has collapsed and will instead pursue an IPO for Arm that could be worth as much as $80 billion, the Financial Times reported Monday… [+1026 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Elisa Rahouadj",
+            "title": "The Big Bang Theory : les acteurs discutent d’une possible réunion !",
+            "description": "Le casting de la série The Big Bang Theory n’exclut pas la possibilité de revenir pour un épisode réunion à l’instar d’autres séries. \nThe Big Bang Theory : les acteurs discutent d’une possible réunion !",
+            "url": "https://www.journaldugeek.com/?p=50321125",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/02/template-jdg-33.jpg",
+            "publishedAt": "2022-02-08T07:00:09Z",
+            "content": "Le casting de la série The Big Bang Theory nexclut pas la possibilité de revenir pour un épisode réunion à linstar dautres séries.Après Friends, Harry Potter, ou encore Scrubs, une autre série pourra… [+2235 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Eduardo Archanco",
+            "title": "Apple celebra el Día de Internet Segura 2022 con consejos, sesiones y herramientas para sus usuarios",
+            "description": "Hoy es el Día de Internet Segura 2022 y Apple participa en su celebración en Europa de forma activa. Centrado en crear un entorno seguro para niños mientras exploran, aprenden y se comunican, la compañía de Cupertino pone el foco en cómo utilizar y aprovechar…",
+            "url": "https://www.applesfera.com/general/apple-celebra-dia-internet-segura-2022-consejos-sesiones-herramientas-para-sus-usuarios",
+            "urlToImage": "https://i.blogs.es/98c3ef/1366_2000-2/840_560.jpeg",
+            "publishedAt": "2022-02-08T07:03:14Z",
+            "content": "Hoy es el Día de Internet Segura 2022 y Apple participa en su celebración en Europa de forma activa. Centrado en crear un entorno seguro para niños mientras exploran, aprenden y se comunican, la comp… [+1560 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Thomas Claburn",
+            "title": "To our total surprise, Apple makes adding alternative payment systems to iOS apps 'painful, expensive, clunky'",
+            "description": "Developers fume while competition watchdog issues a third puny €5m fine\nApple's idea of complying with the law in the Netherlands offers a glimpse of what developers elsewhere have to look forward to if regulators elsewhere succeed in challenging the company'…",
+            "url": "https://www.theregister.com/2022/02/08/apple_payments_developers/",
+            "urlToImage": "https://regmedia.co.uk/2022/02/08/developer_shutterstock.jpg",
+            "publishedAt": "2022-02-08T01:23:34Z",
+            "content": "Apple's idea of complying with the law in the Netherlands offers a glimpse of what developers elsewhere have to look forward to if regulators elsewhere succeed in challenging the company's control of… [+5810 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The A.V. Club"
+            },
+            "author": "Sam Barsanti",
+            "title": "Rashida Jones to star in dark Apple TV Plus comedy about a grief robot",
+            "description": "Hot on the heels of Severance, Apple TV+ and A24 have lined up another grim-sounding series starring an alum from Parks And Recreation. This new one is Sunny, a series adaptation of Colin O’Sullivan’s novel The Dark Manual, which has lined up Rashida Jones to…",
+            "url": "https://www.avclub.com/rashida-jones-sunny-the-dark-manual-apple-tv-plus-1848496851",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b664a3bbf5bb6924f411b0699bb2d6e2.jpg",
+            "publishedAt": "2022-02-08T01:12:00Z",
+            "content": "Hot on the heels of Severance, Apple TV+ and A24 have lined up another grim-sounding series starring an alum from Parks And Recreation. This new one is Sunny, a series adaptation of Colin OSullivans … [+1499 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HYPEBEAST"
+            },
+            "author": "info@hypebeast.com (HYPEBEAST), HYPEBEAST",
+            "title": "Take a First Look at the Nike Dunk Low \"Avocado\"",
+            "description": "Nike has revealed a new Dunk Low iteration dedicated to the avocado for the warmer months ahead.The upcoming pairs feature a dark green leather base and light olive accents along the collars and inner lining. A \"product of nike\" avocado sticker is playfully a…",
+            "url": "https://hypebeast.com/2022/2/first-look-at-the-nike-dunk-low-avocado",
+            "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F02%2Ffirst-look-at-the-nike-dunk-low-avocado-tw.jpg?w=960&cbr=1&q=90&fit=max",
+            "publishedAt": "2022-02-08T04:17:05Z",
+            "content": "Nike\r\n has revealed a new Dunk Low iteration dedicated to the avocado for the warmer months ahead.\r\nThe upcoming pairs feature a dark green leather base and light olive accents along the collars and … [+679 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HYPEBEAST"
+            },
+            "author": "info@hypebeast.com (HYPEBEAST), HYPEBEAST",
+            "title": "Pusha T Drops \"Diet Coke,\" Produced by Kanye and 88-Keys",
+            "description": "Kicking off the build-up for the release of his upcoming album, It’s Not Dry Yet, Pusha T has now released the first single off of the project, \"Diet Coke.\" Produced by Kanye West and 88-Keys, the track off of the rapper's fourth studio album first surfaced i…",
+            "url": "https://hypebeast.com/2022/2/pusha-t-diet-coke-stream-listen-kanye-west-88-keys-produced",
+            "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F02%2Ftw-pusha-t-diet-coke-stream-listen-kanye-west-88-keys-produced.jpg?w=960&cbr=1&q=90&fit=max",
+            "publishedAt": "2022-02-08T05:43:19Z",
+            "content": "Kicking off the build-up for the release of his upcoming album, Its Not Dry Yet, Pusha T has now released the first single off of the project, “Diet Coke.” Produced by Kanye West and 88-Keys, the tra… [+913 chars]"
+        }
+    ]
+}
