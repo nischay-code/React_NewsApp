@@ -9,7 +9,7 @@ export class NewsItem extends Component {
           <img src={urlToImage} className="card-img-top" alt="..." />
           <div className="card-body">
             <h5 className="card-title">{title}</h5>
-            <p className="card-text">{description}...</p>
+            <p className="card-text">{description}</p>
             <a
               rel="noreferrer"
               href={url}
