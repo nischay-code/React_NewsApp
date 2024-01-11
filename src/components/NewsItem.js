@@ -18,7 +18,7 @@ const NewsItem = (props) => {
         <img
           src={
             !urlToImage
-              ? "https://fdn.gsmarena.com/imgroot/news/21/08/xiaomi-smart-home-india-annoucnements/-476x249w4/gsmarena_00.jpg"
+              ? "https://th.bing.com/th/id/OIP.tLYk4tRItXVvCqMaKasRvAHaHa?w=610&h=610&rs=1&pid=ImgDetMain"
               : urlToImage
           }
           className="card-img-top"
