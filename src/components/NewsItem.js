@@ -1,7 +1,7 @@
 import React from "react";
 
 const NewsItem = (props) => {
-  let { title, description, urlToImage, newsUrl, author, date, source } = props;
+  let { title, description, urlToImage, url, author, date, source } = props;
   return (
     <div className="my-3">
       <div className="card">
@@ -35,7 +35,7 @@ const NewsItem = (props) => {
           </p>
           <a
             rel="noreferrer"
-            href={newsUrl}
+            href={url}
             target="_blank"
             className="btn btn-sm btn-dark"
           >
