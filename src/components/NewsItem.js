@@ -18,11 +18,14 @@ const NewsItem = (props) => {
         <img
           src={
             !urlToImage
-              ? "https://th.bing.com/th/id/OIP.tLYk4tRItXVvCqMaKasRvAHaHa?w=610&h=610&rs=1&pid=ImgDetMain"
+              ? "https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png"
               : urlToImage
           }
           className="card-img-top"
           alt="..."
+          style={{
+            height: "250px",
+          }}
         />
         <div className="card-body">
           <h5 className="card-title">{title} </h5>
