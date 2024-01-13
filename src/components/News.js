@@ -75,7 +75,11 @@ export class News extends Component {
       <div className="container my-3">
         <h1
           className="text-center"
-          style={{ margin: "35px 0px", marginTop: "90px" }}
+          style={{
+            margin: "35px 0px",
+            marginTop: "90px",
+            fontFamily: "News Cycle",
+          }}
         >
           NewsBunny - Top {this.capitalizeFirstLetter(this.props.category)}{" "}
           Headlines
