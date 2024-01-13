@@ -54,16 +54,6 @@ export default class App extends Component {
                 category="entertainment"
               />
             </Route>
-            <Route exact path="/general">
-              <News
-                setProgress={this.setProgress}
-                apiKey={this.apiKey}
-                key={"general"}
-                pageSize={this.pageSize}
-                country={"in"}
-                category="general"
-              />
-            </Route>
             <Route exact path="/health">
               <News
                 setProgress={this.setProgress}
