@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# NewsBunny
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Home Page
+
+<img src="https://github.com/nischay-code/React_NewsApp/assets/95124327/a9c7f64a-0db3-4a52-be89-fca6e02af243" alt="Home"/>
 
 ## Available Scripts
 
